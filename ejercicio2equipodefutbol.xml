@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jugador nombre="Toni Kroos" dorsal="8">
+    <nacionalidad>Alemana</nacionalidad>
+    <equipo nombre="Real Madrid">
+        <entrenador>Carlo Ancelotti</entrenador>
+        <ciudad>Madrid</ciudad>
+    </equipo>
+    <caracteristicas>
+        <posicion>Medio campo</posicion>
+        <edad>32</edad>
+        <altura>183cm</altura>
+        <peso>76kg</peso> 
+    </caracteristicas>
+    <datos temporada="22/23">
+        <partidosjugados>5</partidosjugados> 
+        <suplencias>1</suplencias>
+        <minutostotales>445</minutostotales>
+        <tiros>8</tiros>
+        <tirosapuerta>3</tirosapuerta>
+        <asistencias>1</asistencias>
+        <pases>440</pases>
+        <pasescompletados>415</pasescompletados>
+        <fuerasdejuego>0</fuerasdejuego>
+        <faltas>
+            <faltascometidas>4</faltascometidas>
+            <faltasrecibidas>4</faltasrecibidas>
+        </faltas>
+        <tarjetas>
+            <rojas>0</rojas>
+            <amarillas>0</amarillas>
+        </tarjetas>
+    </datos> 
+</jugador>
+    
